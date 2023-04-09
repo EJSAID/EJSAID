@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
  
-web devlopement frontend and backend 
+i am beginner in front-end and back-end web development.
 
 - 📫 How to reach me: ...
 
