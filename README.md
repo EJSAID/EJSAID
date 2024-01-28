@@ -1,6 +1,6 @@
 # Hi there, I'm Said Ej jammaa! 👋
 
-I am beginner full stack developper , I am 21 years old, in the process of obtaining a University Diploma of Technology in computer engineering,  I have a perfect command of web development languages and I am versatile in IT.
+I am beginner a Programmer , I am 22 years old, I already hold a University Diploma of Technology plus license in computer engineering and embedded systems,  I have a perfect command of web development languages and I am versatile in IT.
 
 Here are some ideas to get you started:
 
